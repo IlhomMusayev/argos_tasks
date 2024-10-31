@@ -38,11 +38,11 @@ export default function Compensation() {
 
           <div className="flex justify-center lg:col-span-1">
             <Image
-              src="/_static/qr.png"
+              src="/_static/qr.svg"
               alt="compensation"
               width={200}
               height={200}
-              className="rounded-lg bg-white object-contain"
+              className="h-fit w-fit rounded-lg bg-white object-contain"
             />
           </div>
         </div>
